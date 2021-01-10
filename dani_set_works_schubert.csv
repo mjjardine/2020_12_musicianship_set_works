@@ -1,4 +1,4 @@
-#,QUESTIONS,CORRECT,INCORRECT,,,
+#,Question,Correct,Wrong,Wrong,Wrong,Wrong
 1,What is the lieder set work?,Fruhlingstraum from Winterreise D. 911 by Schubert,Fruhlingstraum from Summerreise D.911 by Schubert,Winterstraum from Fruhlingrreise D.911 by Schubert,We Are Bulletproof : The Eternal by BTS (highly recommend),
 2,What does Fruhlingstraum mean?,Dream of spring,Dream of summer,Spring Day,Dream of flowers,
 3,What does Winterreise mean?,Winter's journey,No More Dream,Cold journey,Lonely journey,
@@ -41,9 +41,9 @@
 40,What does Langsam mean?,Slow,Fast,Not too slow,Very slow,
 41,Schubert - What keys were the song originally written in?,A major and A minor,F major and F minor,G major and G minor,E flat major and E flat minor,
 42,Schubert - Why was the song transposed?,To suit a lower voice,To suit a higher voice,Because they felt like it,So it was more accessible to all voices,
-43,Schubert - What is the meter of Stanzas A?,6/8,2/4,3/8,3/4,
-44,Schubert - What is the meter of Stanzas B?,6/8,2/4,3/8,3/4,
-45,Schubert - What is the meter of Stanzas C?,2/4,6/8,3/8,3/4,
+43,Schubert - What is the meter of Stanzas A?,06-Aug,02-Apr,03-Aug,03-Apr,
+44,Schubert - What is the meter of Stanzas B?,06-Aug,02-Apr,03-Aug,03-Apr,
+45,Schubert - What is the meter of Stanzas C?,02-Apr,06-Aug,03-Aug,03-Apr,
 46,Schubert - What is the key of Stanzas A?,F major,F minor,E flat major,G major,
 47,Schubert - What is the key of Stanzas B?,F minor,F major,E flat minor,E flat major,
 48,Schubert - What is the key of Stanzas C?,F major - F minor,E flat major - E flat minor,G major - G minor,,
